@@ -18,6 +18,7 @@
 ## 設定
 ```json
 {
+    "window.newWindowDimensions": "maximized",
     "files.autoSave": "afterDelay",
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
