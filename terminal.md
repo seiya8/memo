@@ -16,3 +16,5 @@
 ## Ubuntu
 - `sudo apt-get install guake`でGuakeインストール。`F12`でiTerm2のHotkeyみたいなことができる。
   - `F12`はChromeのDeveloper Toolとかぶっているので、Guake Preferencesの`Keyboard shortcuts` -> `General` -> `Toggle Guake visibility`から他のキーに変更
+- スクロールバック
+  - Guake Preferencesの`Scrolling`から`Scrollback lines`の数を大きくしておく
