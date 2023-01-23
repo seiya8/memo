@@ -11,6 +11,7 @@ chsh -s /bin/zsh
 - [exa](https://github.com/ogham/exa): かわいい`ls`
   - `sudo apt install exa` (Ubuntu) or `brew install exa` (Mac)
   - `~/.zshrc`にエイリアス`alias ls='exa --icons` `alias ll='ls -l'` `alias la='ls -la'` を書く。
+## その他設定
 - コマンド実行結果の後の空行
   - `~/.zshrc`に以下を記入
 ```bash
