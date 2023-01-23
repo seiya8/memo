@@ -13,3 +13,4 @@
   - Macのシステム環境設定 -> キーボード -> ショートカット -> サービス から作ったクイックアクションを探し、ショートカット(`^T`)設定。
 ## Ubuntu
 - `sudo apt-get install guake`でGuakeインストール。`F12`でiTerm2のHotkeyみたいなことができる。
+  - `F12`はChromeのDeveloper Toolとかぶっているので、Guake Preferencesの`Keyboard shortcuts` -> `General` -> `Toggle Guake visibility`から他のキーに変更
