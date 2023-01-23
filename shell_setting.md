@@ -26,3 +26,10 @@ precmd() {
   add_newline
 }
 ```
+- プロンプト
+  - zsh-syntax-highlightningでコマンドが緑色になるので、被らない色が良い
+  - 下は黄色。改行あり。
+```bash
+PROMPT='%B%F{11}%n@%m%f:%F{11}%~%f%b
+%# '
+```
