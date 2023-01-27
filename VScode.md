@@ -2,15 +2,20 @@
 ## 拡張機能
 - Dracula Official
 - Rainbow CSV
+  - csvをフィールドごとに色分け
 - Edit csv
+  - エクセルみたいな見た目になる
 - Material Icon Theme
+  - アイコンかわいくなる
 - Indent-rainbow
+  - インデントを色分け
 - Trailing Spaces
+  - 無駄なスペースが赤色になる
+- Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more
+  - コードの補完  Kiteみたいなやつ
 - Python
 - Ruby
 - Jupyter
-- Jupyter Keymap
-- Jupyter Notebook Renderers
 - Markdown All in One
 - Markdown Preview Enhanced
 - Remote - SSH
