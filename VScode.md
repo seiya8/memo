@@ -15,6 +15,8 @@
   - コードの補完  Kiteみたいなやつ
 - Python
 - Ruby
+- endwise
+  - Rubyの`end`を自動で書いてくれる
 - Jupyter
 - Markdown All in One
 - Markdown Preview Enhanced
