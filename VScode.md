@@ -13,6 +13,8 @@
   - 無駄なスペースが赤色になる
 - Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more
   - コードの補完  Kiteみたいなやつ
+- vscode-pdf
+  - PDF viewer
 - Python
 - Ruby
 - endwise
