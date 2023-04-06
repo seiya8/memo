@@ -1,5 +1,10 @@
 # シェルの色々
 ## シェル切り替え
+シェルの一覧表示 (Ubuntu)
+```bash
+cat /etc/shells
+```
+
 ```bash
 chsh -s /bin/zsh
 ```
