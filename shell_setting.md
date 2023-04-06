@@ -12,7 +12,12 @@ chsh -s /bin/zsh
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): 薄く出てくる補完
 - [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete): 下に出てくる補完
 - [zsh-syntax-highlightning](https://github.com/zsh-users/zsh-syntax-highlighting): syntax hilight
-  - これらは`git clone`して`~/.zshrc`に`source /path/to/hoge.zsh`
+  - これらは`git clone`して`~/.zshrc`に
+```bash
+source path/to/zsh-autosuggestions.zsh
+source path/to/zsh-autocomplete.plugin.zsh
+source path/to/zsh-syntax-highlighting.plugin.zsh
+```
 - [exa](https://github.com/ogham/exa): かわいい`ls`
   - `sudo apt install exa` (Ubuntu) or `brew install exa` (Mac)
   - `~/.zshrc`にエイリアス`alias ls='exa --icons` `alias ll='ls -l'` `alias la='ls -la'` を書く。
