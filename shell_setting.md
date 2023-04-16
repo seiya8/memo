@@ -48,3 +48,4 @@ precmd() {
 PROMPT='%B%F{11}%n@%m%f:%F{11}%~%f%b
 %# '
 ```
+- Macの場合、GNU版のsedをインストール(`brew install gnu-sed`)して、`alias sed='gsed'`
