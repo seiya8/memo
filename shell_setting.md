@@ -11,7 +11,7 @@ chsh -s /bin/zsh
 ## zshの外部プラグイン
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions): 薄く出てくる補完
 - [zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete): 下に出てくる補完
-- [zsh-syntax-highlightning](https://github.com/zsh-users/zsh-syntax-highlighting): syntax hilight
+- [zsh-syntax-highlightning](https://github.com/zsh-users/zsh-syntax-highlighting): syntax highlight
   - これらは`git clone`して`~/.zshrc`に
 ```bash
 source path/to/zsh-autosuggestions.zsh
