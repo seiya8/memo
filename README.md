@@ -4,3 +4,4 @@
 - [VSCode](./VScode.md)
 - [ターミナルエミュレータ](./terminal.md)
 - [シェル](./shell_setting.md)
+- [Macのアプリ](./mac_app.md)
