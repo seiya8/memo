@@ -11,7 +11,7 @@
   - インデントを色分け
 - Trailing Spaces
   - 無駄なスペースが赤色になる
-- Tabnine AI Autocomplete for Javascript, Python, Typescript, PHP, Go, Java, Ruby & more
+- GitHub Copilot
   - コードの補完  Kiteみたいなやつ
 - vscode-pdf
   - PDF viewer
@@ -23,6 +23,8 @@
 - Markdown All in One
 - Markdown Preview Enhanced
 - Remote - SSH
+- XML Tools
+  - XPathのテストなどができる
 
 ## 設定
 ```json
