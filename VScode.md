@@ -12,7 +12,6 @@
 - Trailing Spaces
   - 無駄なスペースが赤色になる
 - GitHub Copilot
-  - コードの補完  Kiteみたいなやつ
 - vscode-pdf
   - PDF viewer
 - Python
