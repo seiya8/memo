@@ -83,7 +83,7 @@ PROMPT='%B%F{11}%n@%m%f:%F{11}%~%f%b %F{cyan}$vcs_info_msg_0_%f
 
 # Python
 alias python=python3
-alias prp='poetry run python'
+alias prpython='poetry run python'
 PYENV_ROOT="${HOME}/.pyenv"
 PATH="${PYENV_ROOT}/bin:${PATH}"
 if command -v pyenv 1>/dev/null 2>&1; then
