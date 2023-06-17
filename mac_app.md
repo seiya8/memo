@@ -1,7 +1,5 @@
 # Macのアプリ
-- [Alfred](https://www.alfredapp.com/)
-  - Spotlight Searchより良いやつ
-  - ⌥+Space
+- [Raycast](https://www.raycast.com/)
 - [AltTab](https://alt-tab-macos.netlify.app/)
   - Windowsライクなアプリ切り替え
 - [Karabiner](https://karabiner-elements.pqrs.org/)
